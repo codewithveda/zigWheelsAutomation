@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-31T21:57:59 IST" name="Suite" finished-at="2024-03-31T22:01:04 IST" duration-ms="185082">
+    <groups>
+    </groups>
+    <test started-at="2024-03-31T21:57:59 IST" name="Test" finished-at="2024-03-31T22:01:04 IST" duration-ms="185082">
+      <class name="TestCases.TS_02Cars">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TS_02Cars@51399530]" started-at="2024-03-31T21:59:56 IST" name="setup" finished-at="2024-03-31T22:00:23 IST" duration-ms="26186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="cars()[pri:2, instance:TestCases.TS_02Cars@51399530]" started-at="2024-03-31T22:00:23 IST" name="cars" finished-at="2024-03-31T22:00:31 IST" duration-ms="8680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cars -->
+      </class> <!-- TestCases.TS_02Cars -->
+      <class name="TestCases.TS_03SignUp">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TS_03SignUp@6b2ea799]" started-at="2024-03-31T22:00:31 IST" name="setup" finished-at="2024-03-31T22:01:00 IST" duration-ms="28317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup()[pri:3, instance:TestCases.TS_03SignUp@6b2ea799]" started-at="2024-03-31T22:01:00 IST" name="signup" finished-at="2024-03-31T22:01:03 IST" duration-ms="3282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="validate()[pri:4, instance:TestCases.TS_03SignUp@6b2ea799]" started-at="2024-03-31T22:01:03 IST" name="validate" finished-at="2024-03-31T22:01:04 IST" duration-ms="1066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+      </class> <!-- TestCases.TS_03SignUp -->
+      <class name="TestCases.TS_01Bikes">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TS_01Bikes@5fe94a96]" started-at="2024-03-31T21:57:59 IST" name="setup" finished-at="2024-03-31T21:58:24 IST" duration-ms="24948" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bike()[pri:1, instance:TestCases.TS_01Bikes@5fe94a96]" started-at="2024-03-31T21:58:24 IST" name="bike" finished-at="2024-03-31T21:59:56 IST" duration-ms="92343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bike -->
+      </class> <!-- TestCases.TS_01Bikes -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
